@@ -2,6 +2,8 @@
 
 Welcome to **OpenNeuroStudies** – a comprehensive collection of BIDS (Brain Imaging Data Structure) study datasets that brings together original datasets and their derivatives in one organized ecosystem.
 
+> **⚠️ Under Construction**: This organization is currently being assembled and not all studies are available yet. If you're interested in facilitating a particular study to be included, please file an issue at [OpenNeuroStudies/OpenNeuroStudies](https://github.com/OpenNeuroStudies/OpenNeuroStudies/issues).
+
 ## Purpose
 
 OpenNeuroStudies provides curated BIDS study datasets for each of the OpenNeuro datasets, grouping:
